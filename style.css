@@ -18,10 +18,12 @@ body {
     font-family:'Courier New', Courier, monospace;
     font-size: 50px;
     line-height: 1;
+    color: DarkMagenta;
   }
 
   p {
     font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     line-height: 1;
+    color: Ivory;
   }
